@@ -1,1 +1,1 @@
-# Project Pt 2-PacMen Factory Activity
+# Project Pt 2: PacMen Factory Activity
